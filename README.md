@@ -8,7 +8,7 @@ This website was created using HTML, CSS and bootstrap. This is our first-ever p
 Clone the project
 
 ```bash
-  git clone https://github.com/JoshuaFontiveros/resto-app.git
+  git clonehttps://github.com/JoshuaFontiveros/czyrahs-pizza.git
 ```
 
 Open your file explorer and then click the html file inside.
